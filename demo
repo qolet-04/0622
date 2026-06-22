@@ -10,7 +10,7 @@
            ======================================================== */
         body {
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
-            background-color: #f4f7f6; 
+            background-color: #ce42f5; 
             font-family: 'Helvetica Neue', Arial, sans-serif;
             color: #333333;
             margin: 0;
@@ -70,7 +70,7 @@
             font-size: 14px;
             transition: background 0.3s;
             /* 【ワーク】ボタンの色を変えてみよう（例：#ff6b6b、#4dabf7、#51cf66 など） */
-            background-color: #0369a1; 
+            background-color: #42f5dd; 
         }
         .btn:hover {
             opacity: 0.9;
@@ -81,7 +81,7 @@
 
     <div class="container">
         
-        <img src="https://placehold.co/150" alt="プロフィール画像" class="profile-img">
+        <img src="https://www.tcaeco.ac.jp/contents/animalbook/wp-content/uploads/sites/5/2024/12/cat-type_14.jpg" alt="プロフィール画像" class="profile-img">
 
         <h1>片村 杏菜</h1>
         
